@@ -3,10 +3,6 @@
 /runtime
 /vendor
 
-config.yml
-webconfig.yml
-imconfig.yml
-
 /.vscode
 debug
 *.test

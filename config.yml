@@ -1,0 +1,5 @@
+redis:
+  addr: '127.0.0.1:6379'
+  # password: '' # default: ''
+  # db: 0 # default: 0
+  # pool_size: 10 # default: 10
