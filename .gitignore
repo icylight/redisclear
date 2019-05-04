@@ -1,0 +1,15 @@
+.DS_Store
+
+/runtime
+/vendor
+
+config.yml
+webconfig.yml
+imconfig.yml
+
+/.vscode
+debug
+*.test
+*.out
+
+/redisclear*
